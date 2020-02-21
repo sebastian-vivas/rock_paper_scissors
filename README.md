@@ -1,5 +1,6 @@
 # Rock, Paper, Scissors
 #### Project Scope: Design functional inBrowser Rock, Paper, Scissors game. The player and bot select their choice. The winner gets a point added to their score. Depending on the outcome, a dialogue is displayed reflecting the bot's feelings. 
+#### View here: https://svdev-rps.netlify.com
 ![](rps.png)
 
 # How it was made:
